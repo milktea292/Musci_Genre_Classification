@@ -9,5 +9,5 @@ ds-project/code/src/baseline
 
 ### Navigating to our paper report:
 ```sh
-ds-project/code/src/baseline
+ds-project/outputs/project_final.pdf
 ```
