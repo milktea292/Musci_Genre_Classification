@@ -6,3 +6,8 @@
 ```sh
 ds-project/code/src/baseline
 ```
+
+### Navigating to our paper report:
+```sh
+ds-project/code/src/baseline
+```
