@@ -11,3 +11,5 @@ ds-project/code/src/baseline
 ```sh
 ds-project/outputs/project_final.pdf
 ```
+### Our final results
+<div style="text-align:center"><img src="./images/baseline_f1.svg" width="500">
